@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use or adapt this example app, please cite it using these metadata."
+type: software
+title: "Ski-Lift Pass Gates CLI built with Pixeltable"
+abstract: "A command-line tool for ski-lift turnstiles: passes and gate scans as Pixeltable tables with a computed gate verdict, a per-zone view built with list_iterator, OpenTelemetry span traces of every command, and the same commands against a Pixeltable Cloud database."
+authors:
+  - given-names: "Pierre"
+    family-names: "Brunelle"
+repository-code: "https://github.com/pierrebrunelle/pixeltable-ski-lift-pass-cli"
+url: "https://pierrebrunelle.github.io/awesome-pixeltable-apps/"
+license: Apache-2.0
+version: "0.1.0"
+date-released: 2026-11-05
+keywords:
+  - "pixeltable"
+  - "pixeltable-example"
+  - "python"
+  - "cli"
+  - "ski-resort"
+  - "lift-pass"
+  - "opentelemetry"
+  - "tracing"
+  - "argparse"
+  - "observability"
